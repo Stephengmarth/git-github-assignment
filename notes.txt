@@ -1,1 +1,2 @@
 GitHub is an online hub that allows its users to control/keep up with changes in code versions and work with others. git is a system that allows users to upload/retreive/edit from command prompt or similiar without needing to use the webbased platform
+I am adding more information about branching in git. A branch is seperate from tha main and changes can be made here without affecting the main.
